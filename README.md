@@ -31,7 +31,28 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/5fe17ee3-b50a-459f-8692-a32de46dc0a3)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/74e12035-7451-4c12-9fe4-0de55a057b5e)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/34878b9a-e4fb-4c50-910b-183a74447635)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/15881725-5870-4b7c-9bb9-d5ff86e42c60)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/83ac9e69-1a60-443f-917d-0ead73f2ee28)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/e4c6bef0-c409-40db-b750-00f16f5fb190)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/0dc2c978-e28f-4f1d-a722-76958428e7cc)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/19e028e9-8c71-40c0-b197-22fde79b157e)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/86261816-99a2-4881-916b-aab3702b4c4d)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/a4c7ac9a-5931-4fa3-bea3-9537a435ad1c)
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
