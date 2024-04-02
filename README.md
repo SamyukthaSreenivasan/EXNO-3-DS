@@ -52,8 +52,34 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/a4c7ac9a-5931-4fa3-bea3-9537a435ad1c)
 
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/f39430fa-47de-4d53-a2fc-00ccd5411709)
+
+## Feature Transformation
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/9e05eee5-25c4-4adf-b570-2bf4a58cf052)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/ebda5fdd-0193-4269-9eb7-9f55b8995ad1)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/63d7dcf5-e3f6-4f46-9363-70a49cdad13e)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/aa863dac-cb88-4393-b4f2-7f87b11d824a)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/e702a720-d6f0-4527-8d52-63d379ff95fd)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/6c0e31eb-e11d-4b85-9682-6113eb2ea57b)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/6923144f-95c4-4be8-b5d8-e3d33a4a8e7e)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/2e5c5b66-bf24-43fd-aec4-3ea7769567f8)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/69f66298-2bc9-4a5b-b589-7a6fe99e418c)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/4a766aee-d599-40db-a66c-e3a0e94a1135)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-3-DS/assets/119475703/636dc1f7-043f-49ce-bc22-98160ce3910a)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the feature encoding and feature extraction for the given dataset is performed successfully.
+
+
 
        
